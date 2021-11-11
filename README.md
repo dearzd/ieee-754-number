@@ -1,5 +1,10 @@
 # ieee-754-number
 
+## Example
+![img](./example.png)
+
+See result in [CodeSandBox](https://codesandbox.io/s/festive-goldberg-tuvvy?file=/src/components/IEEENumber.vue)
+
 ## Project setup
 ```
 yarn install
